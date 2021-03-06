@@ -1,0 +1,24 @@
+<style>
+            p{
+                color: red;
+            }
+            div{
+                font-size: 30px;
+            }
+            #firstDiv{
+                color: green;
+            }
+            #secondDiv{
+                color: green;
+            }
+            div.div-type{
+                margin: 40px;
+            }
+            div spar{
+                text decoration: underline;
+                color: gray;
+            }
+            spar{
+                color:blue!important;
+            }
+        </style>
